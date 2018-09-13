@@ -1,0 +1,25 @@
+_repo: Those-Holy-Fields-Palestine-Illustrated-by-Pen-and-Pencil_51452
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Manning, Samuel
+    birthdate: 1822
+    deathdate: 1881
+    gutenberg_agent_id: '43060'
+    url: http://www.gutenberg.org/2009/agents/43060
+description: ''
+gutenberg_issued: '2016-03-14'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '51452'
+  lccn: '04013251'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'DS'
+- !lcsh 'Palestine -- Description and travel'
+- GITenberg
+title: '"Those Holy Fields." Palestine, Illustrated by Pen and Pencil'
+url: http://www.gutenberg.org/ebooks/51452
